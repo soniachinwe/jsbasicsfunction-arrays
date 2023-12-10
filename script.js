@@ -1,5 +1,5 @@
-/*This is function that accepts two parameters. The firt parameter
-is a must be a word while the second parameter is a letter. The function
+/*This is function that accepts two parameters. The first parameter
+is a word while the second parameter is a letter. The function
 when called searches for the letter in the word and matches it
 with the array number where it was found.*/
 function match(word, letter) {
